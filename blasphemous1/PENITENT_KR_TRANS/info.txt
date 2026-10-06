@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_KR_TRANS",
+  "name": "PenitentOwO",
+  "author": "Kira_MySanguineRomance",
+  "version": "1.0.0"
+}

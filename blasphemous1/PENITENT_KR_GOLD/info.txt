@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_KR_GOLD",
+  "name": "Apostate Of Greed",
+  "author": "Kira_MySanguineRomance",
+  "version": "1.0.0"
+}

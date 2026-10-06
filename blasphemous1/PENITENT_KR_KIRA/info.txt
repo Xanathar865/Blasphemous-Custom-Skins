@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_KR_KIRA",
+  "name": "DhampiricEssence",
+  "author": "Kira_MySanguineRomance",
+  "version": "1.0.0"
+}
